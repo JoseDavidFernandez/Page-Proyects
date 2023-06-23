@@ -10,3 +10,5 @@ Projects Page es una página web creada en su totalidad con Bootstrap que muestr
 
 ![Logo](https://user-images.githubusercontent.com/107296373/236514091-5f8a9760-35df-46fb-b922-f046bcbef5af.png)
 
+[![My Skills](https://skillicons.dev/icons?i=html,bootstrap)](https://skillicons.dev)
+
